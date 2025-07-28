@@ -27,7 +27,7 @@ pkg update && pkg upgrade -y
 git clone https://github.com/mdsaifali111/termux-projects.git
 
 # 4. Navigate to the tool directory
-cd termux-projects/termux-insta-downloader
+cd termux-projects/insta-downloader-tools
 
 # 5. Make the script executable
 chmod +x insta-downloader.sh
