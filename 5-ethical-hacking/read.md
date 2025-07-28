@@ -1,29 +1,4 @@
-## Termux Learning & Projects Structure
 
-```
-termux-projects/
-│
-├── 1-basic-commands/
-│   └── commands.md
-│
-├── 2-linux-commands/
-│   └── linux-basics.md
-│
-├── 3-shell-scripting/
-│   └── hello.sh
-│
-├── 4-python-in-termux/
-│   ├── install-python.md
-│   └── project-example.py
-│
-├── 5-ethical-hacking/
-│   ├── nmap-scan.sh
-│   └── whois-check.sh
-│
-
-```
-
----
 
 ### 📁 5-ethical-hacking/
 **Goal:** Learn basic ethical hacking commands with bash scripts in Termux.
@@ -52,4 +27,4 @@ whois $domain
 
 ---
 
-Ready for next ➡️ `6-termux-automation/`? Bolo "next" jab tayyar ho ✨
+ next ➡️ `6-termux-automation/` ✨
